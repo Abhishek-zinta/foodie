@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "parcel": "^2.13.3"
+  },
+  "name": "foddie",
+  "version": "1.0.0",
+  "description": "foddie",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"parcel index.html",
+    "test": "jest"
+  },
+  "author": "zinta",
+  "license": "ISC"
+}
